@@ -12,6 +12,3 @@ This project involves a comprehensive analysis of Amazon sales data to identify 
 ## Tech Stack:
 * Power BI Desktop (Data Visualization)
 * Excel (Data Source)
-
-## Dashboard Preview
-![Dashboard Preview](Amazon%20Sales%20Dashboard.PNG)
