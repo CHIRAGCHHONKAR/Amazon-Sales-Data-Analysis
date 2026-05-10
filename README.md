@@ -14,4 +14,4 @@ This project involves a comprehensive analysis of Amazon sales data to identify 
 * Excel (Data Source)
 
 ## Dashboard Preview
-![Amazon Sales Dashboard](Amazon%20Sales%20Dashboard.PNG)
+![Dashboard Preview](Amazon%20Sales%20Dashboard.PNG)
